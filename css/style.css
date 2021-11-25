@@ -285,7 +285,7 @@ img {
 }
 
 .contact-item:not(:last-child) {
-  margin-right: 10px;
+  margin-right: 30px;
 }
 
 .contact-text {
@@ -547,4 +547,10 @@ img {
     line-height: 1.7;
     margin-bottom: 20px;
   }
+}
+
+.social-icon{
+  width: 100%;
+  max-width: 48px;
+  height: auto;  
 }
