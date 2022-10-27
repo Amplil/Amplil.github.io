@@ -1,24 +1,19 @@
-Welcome to the NextJS base template bootstrapped using the `create-next-app`. This template supports TypeScript, but you can use normal JavaScript as well.
+# Jekyll on Replit
 
-## Getting Started
+This is a styled Jekyll template to get you started with Jekyll static site generator on Replit. It's ready to go so you can just hit run and start coding!
 
-Hit the run button to start the development server.
+The template uses the regular method of adding themes instead of gem-based themes. If you prefer using the gem-based themes use [Jekyll gem-based template](https://replit.com/@AvicNdugu/Jekyll-Using-Gem-base-Theme) instead. For those who want a barebone Jekyll theme without any styling, use [Barebone Jekyll template](https://replit.com/@AvicNdugu/Jekyll).
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Running the repl
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on `/api/hello`. This endpoint can be edited in `pages/api/hello.ts`.
+Simply hit run!
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Installing Additional packages
 
-## Learn More
+To add packages to your Jekyll repl, we recommend using the Replit packager interface in the left sidebar or using `bundle install` in the shell. Check out the [Bundle docs here](https://bundler.io/v2.3/#getting-started).
 
-To learn more about Next.js, take a look at the following resources:
+To add a regular theme, find the desired theme on jekyll themes website. Then add the necessary folders(_layouts, _data, and _include) and files in the main home directory from the theme. Add your posts in the _posts directory.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Help
 
-## Productionizing your Next App
-
-To make your next App run smoothly in production make sure to [turn this repl to an always-on repl.](https://docs.replit.com/hosting/enabling-always-on)
-
-You can also produce a production build by running `npm run build` and [changing the run command](https://docs.replit.com/programming-ide/configuring-repl#run) to `npm run start`.
+If you need help you might be able to find an answer on [Jekyll docs](https://jekyllrb.com/) For help on Replit, visit [Replit docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
