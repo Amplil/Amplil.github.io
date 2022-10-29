@@ -4,7 +4,7 @@
  <title>Your Website Title</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000/"/>
- <updated>2022-10-29T09:26:27+00:00</updated>
+ <updated>2022-10-29T09:38:26+00:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
    <name>Avic Ndugu</name>
@@ -416,60 +416,6 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;It’s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Dreams</title>
-   <link href="http://0.0.0.0:4000/web%20development/2014/07/18/project-1/"/>
-   <updated>2014-07-18T00:00:00+00:00</updated>
-   <id>http://0.0.0.0:4000/web%20development/2014/07/18/project-1</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Escape</title>
-   <link href="http://0.0.0.0:4000/web%20development/2014/07/17/project-2/"/>
-   <updated>2014-07-17T00:00:00+00:00</updated>
-   <id>http://0.0.0.0:4000/web%20development/2014/07/17/project-2</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Golden</title>
-   <link href="http://0.0.0.0:4000/web%20development/2014/07/16/project-3/"/>
-   <updated>2014-07-16T00:00:00+00:00</updated>
-   <id>http://0.0.0.0:4000/web%20development/2014/07/16/project-3</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Treehouse</title>
-   <link href="http://0.0.0.0:4000/web%20development/2014/07/15/project-4/"/>
-   <updated>2014-07-15T00:00:00+00:00</updated>
-   <id>http://0.0.0.0:4000/web%20development/2014/07/15/project-4</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Round Icons</title>
-   <link href="http://0.0.0.0:4000/web%20development/2014/07/15/project-6/"/>
-   <updated>2014-07-15T00:00:00+00:00</updated>
-   <id>http://0.0.0.0:4000/web%20development/2014/07/15/project-6</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Startup Framework</title>
-   <link href="http://0.0.0.0:4000/web%20development/2014/07/14/project-5/"/>
-   <updated>2014-07-14T00:00:00+00:00</updated>
-   <id>http://0.0.0.0:4000/web%20development/2014/07/14/project-5</id>
-   <content type="html">
 </content>
  </entry>
  
