@@ -1,19 +1,30 @@
-# Jekyll on Replit
+Agency Jekyll theme
+====================
 
-This is a styled Jekyll template to get you started with Jekyll static site generator on Replit. It's ready to go so you can just hit run and start coding!
+Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-The template uses the regular method of adding themes instead of gem-based themes. If you prefer using the gem-based themes use [Jekyll gem-based template](https://replit.com/@AvicNdugu/Jekyll-Using-Gem-base-Theme) instead. For those who want a barebone Jekyll theme without any styling, use [Barebone Jekyll template](https://replit.com/@AvicNdugu/Jekyll).
+# How to use
 
-## Running the repl
+###Portfolio 
 
-Simply hit run!
+Portfolio projects are in '/_posts'
 
-## Installing Additional packages
+Images are in '/img/portfolio'
 
-To add packages to your Jekyll repl, we recommend using the Replit packager interface in the left sidebar or using `bundle install` in the shell. Check out the [Bundle docs here](https://bundler.io/v2.3/#getting-started).
+###About
 
-To add a regular theme, find the desired theme on jekyll themes website. Then add the necessary folders(_layouts, _data, and _include) and files in the main home directory from the theme. Add your posts in the _posts directory.
+Images are in '/img/about/'
 
-## Help
+###Team
 
-If you need help you might be able to find an answer on [Jekyll docs](https://jekyllrb.com/) For help on Replit, visit [Replit docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
+Team members and info are in '_config.yml'
+
+Images are in '/img/team/'
+
+
+# Demo
+
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+
+=========
+For more details, read [documentation](http://jekyllrb.com/)
